@@ -1,6 +1,6 @@
 # Vendor Profile: Digital Account Opening & Identity Verification (IDV)
 
-> **Disclaimer:** This organization, vendor, and risk assessment are fictional/simulated for an entry-level banking GRC portfolio project.
+> **Disclaimer:** This organization, vendor, and risk assessment are fictional/simulated for an entry-level GRC portfolio project.
 
 ## 1. Banking Context & Product Scope
 **Peachtree Community Bank** (simulated regional bank) is launching an online deposit account opening flow that allows prospective customers to apply for checking accounts digitally. To support Know Your Customer (KYC) and identity verification requirements, the bank integrates with a third-party Identity Verification & Document Authentication vendor (**VerifyFlow ID**, simulated).
